@@ -14,6 +14,8 @@ group :assets do
 end
 
 gem 'jquery-rails'
+gem 'turbolinks'
+gem 'jbuilder', '~> 1.2'
 
 group :production do 
 	gem 'pg'
